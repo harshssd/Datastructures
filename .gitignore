@@ -3,3 +3,49 @@
 
 # Ignore Gradle build output directory
 build
+
+# Ignore IntelliJ IDEA project files
+.idea
+*.iml
+
+# Ignore IntelliJ IDEA project files
+.vscode
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+
+# Ignore NetBeans project files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Ignore Maven target directory
+target/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore compiled class files
+*.class
+
+# Ignore JAR files
+*.jar
+
+# Ignore WAR files
+*.war
+
+# Ignore generated files
+*.generated
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
