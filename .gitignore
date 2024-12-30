@@ -8,7 +8,7 @@ build
 .idea
 *.iml
 
-# Ignore IntelliJ IDEA project files
+# Ignore VS Code project files
 .vscode
 
 # Ignore Eclipse project files
